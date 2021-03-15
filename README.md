@@ -1,0 +1,1 @@
+# xmlstarlet-static-binary
